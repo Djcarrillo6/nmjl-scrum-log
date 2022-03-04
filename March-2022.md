@@ -13,4 +13,4 @@
 2. Since Bill mentioned in yesterday's meeting, that we could consider new tools to use to develop NMJL, I have 2 new options to show the team:
    1. New `Vite` integration for the client side.
    2. The `csharp-vscode-setup.md` file if anyone on the team would prefer a VS Code code editor...however the consesus on in the dev community is the Visual Studio provides a much more rebust testing, debugging, and C# scoped development tools.
-   3. I came across a extremely popular software project management provider call `Liner` --> `https://linear.app/`, which could be considered as a replacement for Jira.
+   3. I came across a extremely popular software project management provider call `Linear` --> `https://linear.app/`, which could be considered as a replacement for Jira.
